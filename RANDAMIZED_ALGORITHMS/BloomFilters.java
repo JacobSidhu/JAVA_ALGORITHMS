@@ -2,7 +2,7 @@ public class BloomFilters
 {
     static public void main (String[] args)
     {
-        System.out.print("BloomFilters");
+        System.out.print("CityHash");
     }
 
 }
